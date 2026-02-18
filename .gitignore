@@ -83,3 +83,9 @@ USER.md
 .agent/*.json
 !.agent/workflows/
 local/
+
+# Local tool caches
+.serena/
+
+# Local tool caches
+.serena/
